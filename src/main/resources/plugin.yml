@@ -1,4 +1,4 @@
-name: AchievementFix
+name: MissingAchievement
 main: io.github.rypofalem.achievement.AchievementFixPlugin
 version: 1.11-1.2
 website: rypofalem.github.io
