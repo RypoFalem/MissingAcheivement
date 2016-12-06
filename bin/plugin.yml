@@ -1,8 +1,0 @@
-name: AchievementFix
-main: io.github.rypofalem.achievement.AchievementFixPlugin
-version: 1.11-1.2
-website: rypofalem.github.io
-author: RypoFalem
-description: Reward achievement whenever player steps through an end portal
-commands:
-permissions:
